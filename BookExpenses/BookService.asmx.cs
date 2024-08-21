@@ -17,7 +17,7 @@ namespace BookExpenses
     /// <summary>
     /// Summary description for BookService
     /// </summary>
-    [WebService(Namespace = "http://mis.bsu.eg/webservice")]
+    [WebService(Namespace = "webservice_url")]
     [WebServiceBinding(ConformsTo = WsiProfiles.BasicProfile1_1)]
     [System.ComponentModel.ToolboxItem(false)]
     // To allow this Web Service to be called from script, using ASP.NET AJAX, uncomment the following line. 
